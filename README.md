@@ -1,2 +1,13 @@
-# fake-news-detection-ml
-A Machine Learning model that is trained to detect fake news.
+# Fake News Detection ML Project
+
+## Team Members:
+- Prathiush Jayaprakash
+- Yedhukrishnan TA
+
+## Tech Stack:
+- Python
+- Scikit-learn
+- Streamlit
+
+## Project Goal:
+Classify news as Fake or Real using ML.
