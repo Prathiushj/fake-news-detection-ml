@@ -1,13 +1,19 @@
-# Fake News Detection ML Project
+# 📰 Fake News Detection System
 
-## Team Members:
-- Prathiush Jayaprakash
-- Yedhukrishnan TA
+This project detects whether a news article is Real or Fake using Machine Learning.
 
-## Tech Stack:
+## 🚀 Features
+- Real-time prediction
+- Confidence score
+- Clean Streamlit UI
+
+## 🛠️ Tech Stack
 - Python
 - Scikit-learn
+- NLP (TF-IDF)
 - Streamlit
 
-## Project Goal:
-Classify news as Fake or Real using ML.
+## ▶️ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app/app.py
